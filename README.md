@@ -1,0 +1,1 @@
+This is my first Odin Project Project. The goal is to replicate the google homepage using HTML and CSS. After the completion of this project I hope to have a better understanding of using CSS to style, exstracting html/css using developer tools, and a better understanding into web design. 
